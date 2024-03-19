@@ -1,0 +1,3 @@
+This exercise helped me see that designing smart contracts needs a lot of thought. 
+Every piece has to fit together just right to make sure the contract does what it's supposed to. T
+esting the contract is like double-checking to make sure everything works okay before it goes live.
